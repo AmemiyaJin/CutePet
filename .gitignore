@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+obj/
+bin/
+*.user
+*.aps
+*.pch
+*.vspxx
+
+# Windows
+Thumbs.db
+*.log
